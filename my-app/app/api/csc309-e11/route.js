@@ -1,0 +1,8 @@
+
+export async function GET() {
+
+    return <div id="auto-tester">
+            Hi. I am hadzika1, and I have learned how to develop a full-stack web app
+            and deploy it!
+        </div>
+}
